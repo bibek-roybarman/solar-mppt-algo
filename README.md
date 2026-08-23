@@ -252,3 +252,4 @@ Built with modern web technologies for the solar energy research and education c
 ---
 
 **Note**: This simulator is for educational and research purposes. Real-world MPPT implementations should be validated with actual hardware testing.
+<!-- Pull Shark Badge Test -->
